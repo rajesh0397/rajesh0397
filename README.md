@@ -4,6 +4,5 @@
       currently working as **Linux Engineer** in **VMSTACK IT PRIVATE LIMITED**.
 - 👀 I’m interested in New Techs and Gadgets 
 - 🌱 I’m currently learning Python and intersted in Machine Learning.
-- 💞️ I’m looking to collaborate on: Open source projects in the domains of Python. 
 - 📫 Reach me at: [Gmail](rajesh03.997@gmail.com)
 
